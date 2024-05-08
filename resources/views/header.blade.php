@@ -5,31 +5,31 @@
                 <div id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0 d-flex">
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Characters</a>
+                            <a>Characters</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Comics</a>
+                            <a>Comics</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Movies</a>
+                            <a>Movies</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">TV</a>
+                            <a>TV</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Games</a>
+                            <a>Games</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Collectibles</a>
+                            <a>Collectibles</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Videos</a>
+                            <a>Videos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Fans</a>
+                            <a>Fans</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">News</a>
+                            <a>News</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Shop</a>
@@ -43,3 +43,8 @@
             </div>
     </div>
 </header>
+<div class="jumbotron jumbotron-fluid" style="background-color: black;">
+    <div class="container">
+        <p>jumbotron</p>
+    </div>
+</div>
