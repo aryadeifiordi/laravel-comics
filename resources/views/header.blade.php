@@ -32,7 +32,7 @@
                             <a>News</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Shop</a>
+                            <a>Shop</a>
                         </li>
                     </ul>
                     <form class="d-flex">
